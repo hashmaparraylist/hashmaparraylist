@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [AKS中重写规则踩坑小记录](https://hashmaparraylist.github.io/2022/09/23/AKS%E4%B8%AD%E9%87%8D%E5%86%99%E8%A7%84%E5%88%99%E8%B8%A9%E5%9D%91%E5%B0%8F%E8%AE%B0%E5%BD%95/)
 - [Spring Cloud Kubernetes环境下使用Jasypt](https://hashmaparraylist.github.io/2021/09/29/Spring-Cloud-Kubernetes%E7%8E%AF%E5%A2%83%E4%B8%8B%E4%BD%BF%E7%94%A8Jasypt/)
 - [重学Java &lpar;一&rpar; 泛型](https://hashmaparraylist.github.io/2021/03/15/%E9%87%8D%E5%AD%A6Java-%E4%B8%80-%E6%B3%9B%E5%9E%8B/)
 - [2020年阅读总结](https://hashmaparraylist.github.io/2020/12/29/2020%E5%B9%B4%E9%98%85%E8%AF%BB%E6%80%BB%E7%BB%93/)
 - [Largrange项目架构与设计回顾 &lpar;二&rpar;](https://hashmaparraylist.github.io/2020/05/21/Lagrange%E9%A1%B9%E7%9B%AE%E5%9B%9E%E9%A1%BE2/)
-- [Largrange项目架构与设计回顾 &lpar;一&rpar;](https://hashmaparraylist.github.io/2020/05/09/lagrange%E9%A1%B9%E7%9B%AE%E5%9B%9E%E9%A1%BE/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
