@@ -1,4 +1,4 @@
-### Hi there, I'm Sebastian - aka [hashmaparraylist](https://hashamaparraylist.github.io) 👋 
+### Hi there, I'm Sebastian - aka [hashmaparraylist](https://hashmaparraylist.github.io) 👋 
 
 [![Website](https://img.shields.io/website?label=hashmaparraylist.github.io&style=for-the-badge&url=https%3A%2F%2Fhashmaparraylist.github.io)](https://hashmaparraylist.github.io)
 
