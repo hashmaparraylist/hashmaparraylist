@@ -30,11 +30,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [H项目心路历程记&lpar;三&rpar;](https://hashmaparraylist.github.io/2023/09/21/H%E9%A1%B9%E7%9B%AE%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B%E8%AE%B0-3/)
 - [H项目心路历程记 &lpar;二&rpar;](https://hashmaparraylist.github.io/2023/07/12/H%E9%A1%B9%E7%9B%AE%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B%E8%AE%B0-2/)
 - [H项目心路历程记 &lpar;一&rpar;](https://hashmaparraylist.github.io/2023/07/10/H%E9%A1%B9%E7%9B%AE%E5%BF%83%E8%B7%AF%E5%8E%86%E7%A8%8B%E8%AE%B0-1/)
 - [AKS中重写规则踩坑小记录](https://hashmaparraylist.github.io/2022/09/23/AKS%E4%B8%AD%E9%87%8D%E5%86%99%E8%A7%84%E5%88%99%E8%B8%A9%E5%9D%91%E5%B0%8F%E8%AE%B0%E5%BD%95/)
 - [Spring Cloud Kubernetes环境下使用Jasypt](https://hashmaparraylist.github.io/2021/09/29/Spring-Cloud-Kubernetes%E7%8E%AF%E5%A2%83%E4%B8%8B%E4%BD%BF%E7%94%A8Jasypt/)
-- [重学Java &lpar;一&rpar; 泛型](https://hashmaparraylist.github.io/2021/03/15/%E9%87%8D%E5%AD%A6Java-%E4%B8%80-%E6%B3%9B%E5%9E%8B/)
 <!-- BLOG-POST-LIST:END -->
 
 <br />
